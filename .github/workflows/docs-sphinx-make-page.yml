@@ -16,4 +16,4 @@ jobs:
         create_readme: true
         install_extensions: false
         deploy: true
-        source_dir: 'docs'
+        source_dir: 'source'
