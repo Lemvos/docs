@@ -13,6 +13,6 @@ jobs:
   docs:
     runs-on: ubuntu-latest
     steps:
-    - uses: ros-controls/control.ros.org-deployment-scripts@master
+    - uses: Lemvos/sphinx-pages@master
       with:
         install_extensions: false
