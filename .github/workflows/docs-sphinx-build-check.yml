@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - $ros_distro$
+      - master
   schedule:
     # Run every day to detect flakiness and broken dependencies
     - cron: '23 5 * * *'

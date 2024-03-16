@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - $ros_distro$
+      - master
 
 jobs:
   build:
