@@ -15,5 +15,5 @@ jobs:
     steps:
     - uses: Lemvos/sphinx-pages@master
       with:
-        install_extensions: false
+        github_token: ${{ secrets.GITHUB_TOKEN }}
         source_dir: 'source'
