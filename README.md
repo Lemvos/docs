@@ -1,3 +1,3 @@
 GitHub Pages of [Lemvos/docs](https://github.com/Lemvos/docs.git)
 ===
-Sphinx html documentation of [2a27448b](https://github.com/Lemvos/docs/tree/2a27448bc797a0c9c05300237198824deb96f438)
+Sphinx html documentation of [af6ac7fe](https://github.com/Lemvos/docs/tree/af6ac7fee70c148e640b27ffa32465cf3d220250)
